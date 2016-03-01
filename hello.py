@@ -11,10 +11,12 @@ logging.info ( WORK_DIR)
 
 
 def application(env, start_response):
-#    logging.info ( 'BLA BLA')
-    #or k, v in env.items():
-    #   logging.info('%s: %s' % (k,v))
-    query = '\n'.join(env['QUERY_STRING'].split('&')) + '\n'
+    logging.info ( 'BLA BLA')
+    for k, v in env.items():
+        logging.info('%s: %s' % (k,v))
+    logging.info ( 'BLA1 BLA1')
+    #query = '\n'.join(env['QUERY_STRING'].split('&')) + '\n\n\n'
+    query = env['QUERY_STRING'].split('&')
     logging.info('%s' % query)
     start_response('200 OK', [('Content-Type', 'text/plain'), ('Content-Length', len(query))])
-    return [query]
+    return query
