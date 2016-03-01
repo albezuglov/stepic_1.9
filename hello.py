@@ -18,5 +18,5 @@ def application(env, start_response):
     #query = '\n'.join(env['QUERY_STRING'].split('&')) + '\n\n\n'
     query = env['QUERY_STRING'].split('&')
     logging.info('%s' % query)
-    start_response('200 OK', [('Content-Type', 'text/plain'), ('Content-Length', len(query))])
+    start_response('200 OK', [('Content-Type', 'text/plain')])
     return query

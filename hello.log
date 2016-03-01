@@ -1,0 +1,188 @@
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:gunicorn.error:Worker exiting (pid: 104)
+INFO:gunicorn.error:Worker exiting (pid: 105)
+INFO:gunicorn.error:Worker exiting (pid: 106)
+INFO:gunicorn.error:Worker exiting (pid: 107)
+INFO:gunicorn.error:Worker exiting (pid: 108)
+INFO:gunicorn.error:Worker exiting (pid: 109)
+INFO:gunicorn.error:Worker exiting (pid: 110)
+INFO:gunicorn.error:Worker exiting (pid: 111)
+INFO:gunicorn.error:Worker exiting (pid: 112)
+INFO:gunicorn.error:Worker exiting (pid: 113)
+INFO:gunicorn.error:Worker exiting (pid: 114)
+INFO:gunicorn.error:Worker exiting (pid: 115)
+INFO:gunicorn.error:Worker exiting (pid: 116)
+INFO:gunicorn.error:Worker exiting (pid: 117)
+INFO:gunicorn.error:Worker exiting (pid: 118)
+INFO:gunicorn.error:Worker exiting (pid: 119)
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:BLA BLA
+INFO:root:SERVER_PROTOCOL: HTTP/1.1
+INFO:root:SERVER_SOFTWARE: gunicorn/17.5
+INFO:root:SCRIPT_NAME: 
+INFO:root:wsgi.input: <gunicorn.http.body.Body object at 0x7f0bbcb0a410>
+INFO:root:REQUEST_METHOD: GET
+INFO:root:HTTP_HOST: 10.42.236.51:8080
+INFO:root:PATH_INFO: /
+INFO:root:wsgi.multithread: False
+INFO:root:QUERY_STRING: 
+INFO:root:HTTP_CONNECTION: close
+INFO:root:HTTP_USER_AGENT: Python-urllib/2.7
+INFO:root:wsgi.version: (1, 0)
+INFO:root:REMOTE_PORT: 40155
+INFO:root:RAW_URI: /
+INFO:root:REMOTE_ADDR: 10.42.234.66
+INFO:root:wsgi.run_once: False
+INFO:root:wsgi.errors: <open file '<stderr>', mode 'w' at 0x7f0bbff1f1e0>
+INFO:root:wsgi.multiprocess: True
+INFO:root:wsgi.url_scheme: http
+INFO:root:gunicorn.socket: <socket._socketobject object at 0x7f0bbcfd5ad0>
+INFO:root:SERVER_NAME: 10.42.236.51
+INFO:root:SERVER_PORT: 8080
+INFO:root:wsgi.file_wrapper: gunicorn.http.wsgi.FileWrapper
+INFO:root:HTTP_ACCEPT_ENCODING: identity
+INFO:root:BLA1 BLA1
+INFO:root:['']
+INFO:root:BLA BLA
+INFO:root:SERVER_PROTOCOL: HTTP/1.1
+INFO:root:SERVER_SOFTWARE: gunicorn/17.5
+INFO:root:SCRIPT_NAME: 
+INFO:root:wsgi.input: <gunicorn.http.body.Body object at 0x7f0bbcb0a390>
+INFO:root:REQUEST_METHOD: GET
+INFO:root:HTTP_HOST: 10.42.236.51:8080
+INFO:root:PATH_INFO: /
+INFO:root:wsgi.multithread: False
+INFO:root:QUERY_STRING: x=1&x=2&y=3&y=
+INFO:root:HTTP_CONNECTION: close
+INFO:root:HTTP_USER_AGENT: Python-urllib/2.7
+INFO:root:wsgi.version: (1, 0)
+INFO:root:REMOTE_PORT: 40156
+INFO:root:RAW_URI: /?x=1&x=2&y=3&y=
+INFO:root:REMOTE_ADDR: 10.42.234.66
+INFO:root:wsgi.run_once: False
+INFO:root:wsgi.errors: <open file '<stderr>', mode 'w' at 0x7f0bbff1f1e0>
+INFO:root:wsgi.multiprocess: True
+INFO:root:wsgi.url_scheme: http
+INFO:root:gunicorn.socket: <socket._socketobject object at 0x7f0bbcfd5ad0>
+INFO:root:SERVER_NAME: 10.42.236.51
+INFO:root:SERVER_PORT: 8080
+INFO:root:wsgi.file_wrapper: gunicorn.http.wsgi.FileWrapper
+INFO:root:HTTP_ACCEPT_ENCODING: identity
+INFO:root:BLA1 BLA1
+INFO:root:['x=1', 'x=2', 'y=3', 'y=']
+INFO:gunicorn.error:Worker exiting (pid: 200)
+INFO:gunicorn.error:Worker exiting (pid: 201)
+INFO:gunicorn.error:Worker exiting (pid: 202)
+INFO:gunicorn.error:Worker exiting (pid: 203)
+INFO:gunicorn.error:Worker exiting (pid: 204)
+INFO:gunicorn.error:Worker exiting (pid: 205)
+INFO:gunicorn.error:Worker exiting (pid: 206)
+INFO:gunicorn.error:Worker exiting (pid: 207)
+INFO:gunicorn.error:Worker exiting (pid: 208)
+INFO:gunicorn.error:Worker exiting (pid: 215)
+INFO:gunicorn.error:Worker exiting (pid: 213)
+INFO:gunicorn.error:Worker exiting (pid: 212)
+INFO:gunicorn.error:Worker exiting (pid: 211)
+INFO:gunicorn.error:Worker exiting (pid: 210)
+INFO:gunicorn.error:Worker exiting (pid: 209)
+INFO:gunicorn.error:Worker exiting (pid: 214)
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:/home/box/web
+INFO:root:BLA BLA
+INFO:root:SERVER_PROTOCOL: HTTP/1.1
+INFO:root:SERVER_SOFTWARE: gunicorn/17.5
+INFO:root:SCRIPT_NAME: 
+INFO:root:wsgi.input: <gunicorn.http.body.Body object at 0x7f41c97f5510>
+INFO:root:REQUEST_METHOD: GET
+INFO:root:HTTP_HOST: 10.42.236.51:8080
+INFO:root:PATH_INFO: /
+INFO:root:wsgi.multithread: False
+INFO:root:QUERY_STRING: 
+INFO:root:HTTP_CONNECTION: close
+INFO:root:HTTP_USER_AGENT: Python-urllib/2.7
+INFO:root:wsgi.version: (1, 0)
+INFO:root:REMOTE_PORT: 40199
+INFO:root:RAW_URI: /
+INFO:root:REMOTE_ADDR: 10.42.234.66
+INFO:root:wsgi.run_once: False
+INFO:root:wsgi.errors: <open file '<stderr>', mode 'w' at 0x7f41ccc0b1e0>
+INFO:root:wsgi.multiprocess: True
+INFO:root:wsgi.url_scheme: http
+INFO:root:gunicorn.socket: <socket._socketobject object at 0x7f41c9cc1ad0>
+INFO:root:SERVER_NAME: 10.42.236.51
+INFO:root:SERVER_PORT: 8080
+INFO:root:wsgi.file_wrapper: gunicorn.http.wsgi.FileWrapper
+INFO:root:HTTP_ACCEPT_ENCODING: identity
+INFO:root:BLA1 BLA1
+INFO:root:['']
+INFO:root:BLA BLA
+INFO:root:SERVER_PROTOCOL: HTTP/1.1
+INFO:root:SERVER_SOFTWARE: gunicorn/17.5
+INFO:root:SCRIPT_NAME: 
+INFO:root:wsgi.input: <gunicorn.http.body.Body object at 0x7f41c97f8210>
+INFO:root:REQUEST_METHOD: GET
+INFO:root:HTTP_HOST: 10.42.236.51:8080
+INFO:root:PATH_INFO: /
+INFO:root:wsgi.multithread: False
+INFO:root:QUERY_STRING: x=1&x=2&y=3&y=
+INFO:root:HTTP_CONNECTION: close
+INFO:root:HTTP_USER_AGENT: Python-urllib/2.7
+INFO:root:wsgi.version: (1, 0)
+INFO:root:REMOTE_PORT: 40200
+INFO:root:RAW_URI: /?x=1&x=2&y=3&y=
+INFO:root:REMOTE_ADDR: 10.42.234.66
+INFO:root:wsgi.run_once: False
+INFO:root:wsgi.errors: <open file '<stderr>', mode 'w' at 0x7f41ccc0b1e0>
+INFO:root:wsgi.multiprocess: True
+INFO:root:wsgi.url_scheme: http
+INFO:root:gunicorn.socket: <socket._socketobject object at 0x7f41c9cc1ad0>
+INFO:root:SERVER_NAME: 10.42.236.51
+INFO:root:SERVER_PORT: 8080
+INFO:root:wsgi.file_wrapper: gunicorn.http.wsgi.FileWrapper
+INFO:root:HTTP_ACCEPT_ENCODING: identity
+INFO:root:BLA1 BLA1
+INFO:root:['x=1', 'x=2', 'y=3', 'y=']
